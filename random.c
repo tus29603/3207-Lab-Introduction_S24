@@ -3,6 +3,7 @@
 //  testRandonNumber
 //
 //  Created by Tesfaldet Haileab on 1/18/24.
+// There git permission issue
 //
 #include <stdio.h>
 #include <stdlib.h>
